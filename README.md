@@ -20,6 +20,7 @@ _Inkscape_
 *   Repeat with all closed letters
 * Select all (w/ Node Cursor)
 * *Ctrl-Shift-K* (Break Apart)
+* Resize canvas with File > Document Properties. Click "Resize Page to Drawing or Selection"
 * Save As > Plain SVG
 
 _Eagle_ 
